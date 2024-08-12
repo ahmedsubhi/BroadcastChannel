@@ -67,7 +67,7 @@ For detailed tutorials, see [Deploy your Astro site](https://docs.astro.build/en
 
 ```env
 ## Telegram Channel Username, must be configured. The string of characters following t.me/
-CHANNEL=miantiao_me
+CHANNEL=Cosmos_with_us
 
 ## Language and timezone settings, language options see [dayjs](https://github.com/iamkun/dayjs/tree/dev/src/locale)
 LOCALE=en
